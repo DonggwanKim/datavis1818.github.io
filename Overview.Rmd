@@ -1,0 +1,27 @@
+---
+title: "Overview"
+---
+
+
+
+```{r, include=FALSE}
+library(dplyr)
+library(tm)
+library(tidytext)
+library(xlsx)
+library(wordcloud)
+library(plotly)
+library(ggthemes)
+library(ggplot2)
+library(leaflet)
+library(readxl)
+library(tmap)
+load("motive_tidy.rda")
+#load("/Users/Pedro/Desktop/final-project-team-18/Tian_Summer/GTD.RData")
+
+```
+
+## Group M: Global Terrorism
+
+Pedro Perez, Donggwan Kim. Tiantian Yin, Suer Hu
+
